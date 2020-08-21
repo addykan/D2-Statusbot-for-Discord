@@ -13,3 +13,6 @@ The expectation is to input a player ID (from Bungie) and to receive information
 import requests
 import requests_oauthlib
 import json
+
+#%%
+#First step: Figure out how to allow user to authorize the app to access Bungie data
